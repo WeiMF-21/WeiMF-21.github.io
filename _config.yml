@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 title                    : "MF Wei / Homepage"
 title_separator          : "-"
 name                     : "MF Wei"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "MF Wei"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  avatar           : 
+  bio              : "南京大学大数据传播实验班2024级本科生"
+  location         : "南京，中国"
+  employer         : "南京大学"
+  pubmed           : 
+  googlescholar    : 
+  email            : "241051020@smail.nju.edu.cn"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "socratesclub"
+  github           : "WeiMF-21"
   google_plus      :
   keybase          :
   instagram        :
